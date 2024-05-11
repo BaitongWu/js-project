@@ -19,7 +19,7 @@ const routes = [
         component: Center
     },
     {
-        path: "/user-manage/useradd",
+        path: "/user-manage/adduser",
         component: UserAdd
     },
     {
@@ -27,7 +27,7 @@ const routes = [
         component: UserList
     },
     {
-        path: "/news-manage/newsadd",
+        path: "/news-manage/addnews",
         component: NewsAdd
     },
     {
@@ -35,7 +35,7 @@ const routes = [
         component: NewsList
     },
     {
-        path: "/product-manage/productadd",
+        path: "/product-manage/addproduct",
         component: ProductAdd
     },
     {
